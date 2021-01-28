@@ -50,4 +50,7 @@ dependencies {
     //权限管理
     implementation 'pub.devrel:easypermissions:3.0.0'
 
+    implementation 'com.google.code.gson:gson:2.8.6'
+
+
 }

@@ -4,6 +4,7 @@
 
     <!--    地图SDK（包含其搜索功能）需要的基础权限-->
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
     <!--允许程序打开网络套接字-->
     <uses-permission android:name="android.permission.INTERNET" />
     <!--允许程序设置内置sd卡的写权限-->
